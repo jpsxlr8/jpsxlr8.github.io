@@ -58,12 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Jai Pratap SIngh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Pre-final year undergrad at MNNIT Allahabad"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "jpsxlr8.netlify.app"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
