@@ -1,8 +1,10 @@
 ---
 title: "Post: Miscellaneous"
-  - Post Formats
-  - categories:
-  - blog
+categories:
+  - Blog
+tags:
+  - misc
+  - justdoit
 
 ---
 
