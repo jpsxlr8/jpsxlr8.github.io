@@ -7,27 +7,27 @@ tags:
   - quote
 ---
 
-Psycho
-2001: A space Odyssey
-North by Northwest
-Dogtooth
-The Mirror
-Andrei Rublev
-The Seventh Seal
-MI Series
-Nightcrawler
-Citizen Kane
-Notorious
-Sunset Boulevard
-The Apartment
-Braveheart
-Parasite
-Lawrence of Arabia
-Ben-Hur
-Casablanca
-The China Town
-Full Metal Jacket
-The Godfather trilogy
-Lords of the rings trilogy
-Batman Trilogy
-The Shining
+Psycho<br>
+2001: A space Odyssey<br>
+North by Northwest<br>
+Dogtooth<br>
+The Mirror<br>
+Andrei Rublev<br>
+The Seventh Seal<br>
+MI Series<br>
+Nightcrawler<br>
+Citizen Kane<br>
+Notorious<br>
+Sunset Boulevard<br>
+The Apartment<br>
+Braveheart<br>
+Parasite<br>
+Lawrence of Arabia<br>
+Ben-Hur<br>
+Casablanca<br>
+The China Town<br>
+Full Metal Jacket<br>
+The Godfather trilogy<br>
+Lords of the rings trilogy<br>
+Batman Trilogy<br>
+The Shining<br>
