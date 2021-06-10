@@ -1,1 +1,5 @@
 
+---
+permalink: /posts/
+title: "Posts"
+---
