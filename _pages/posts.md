@@ -1,5 +1,5 @@
 ---
 title: "Posts"
-permalink: /_posts/
+permalink: /posts/
 author_profile: true
 ---
