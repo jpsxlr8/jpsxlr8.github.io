@@ -1,6 +1,6 @@
 ---
 title: "Curriculum-Vitae"
 permalink: /cv/
-layout: tags
+url: /Jai Pratap Singh_CV.pdf
 author_profile: true
 ---
