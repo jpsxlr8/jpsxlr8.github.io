@@ -1,6 +1,6 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Post: Roland Garros"
+last_modified_at: 2021-06-10T16:20:02-05:00
 categories:
   - Blog
 tags:
@@ -9,6 +9,13 @@ tags:
   - standard
 ---
 
-This post has been updated and should show a modified date if used in a layout.
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+Novak Djokovic will be looking for some good old-fashioned revenge against Rafael Nadal, who won last year's final for the loss of just seven games. Djokovic was simply pulverized by Nadal in that meeting, and had no answer for the Spaniard's heavy groundstrokes.
+
+Needless to say, he will be hoping for a different outcome this time around. But to do that Djokovic will need to open up the court with angled crosscourt shots and use the drop shot to get Nadal off the baseline. The Serb's first serve, which has earned him a lot of free points this tournament, will also need to be on point if he is to upstage the "King of Clay" at his favourite hunting ground.
+Nadal on his part has been scintillating from the back of the court, striking 86 winners over the course of the tournament thus far. The Spaniard, has, however, struggled a little with his serve, double-faulting at crucial moments and missing his spots frequently.
+
+Against Djokovic, who is widely considered the best returner on tour, Nadal will need to make major improvements in that area.
+
+Having said that, the 13-time Roland Garros champion usually irons out all the chinks in his game by the time he meets the top players at the business end of Grand Slams. Nadal has never lost at this stage in Paris, and will likely have enough in the tank once again to come through
+ Prediction: Rafa in five sets.
