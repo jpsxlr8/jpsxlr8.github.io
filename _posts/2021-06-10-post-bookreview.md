@@ -16,5 +16,5 @@ Psycho thriller, vintage and a must read. Can be a bit confusing due to the Russ
 <b>Meditations</b> by Marcus Aurelius.<br>
 <b>Psychology of Money</b> by Morgan Housel<br>
 Very well written with easy to understable concepts. Must read if you want to financially sound.<br>
-<b>Deep Work</b> by Cal Newport
+<b>Deep Work</b> by Cal Newport<br>
 Interesting read outlining the benefits of deep work <br>
