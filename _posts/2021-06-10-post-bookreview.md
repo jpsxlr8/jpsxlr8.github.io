@@ -20,3 +20,4 @@ Very well written with easy to understandable concepts. Must read if you want to
 Interesting read outlining the benefits of deep work i.e deliberte work done with full concentration without any distractions. <br>
 <b>Fooled by Randomness</b> by Nassim Nicholas Taleb<br>
  A one time read since the book is fulled of blabbery in pursuit to press the author's viewpoint. <br>
+ Got recommendations?<a href="mailto:jpsxlr8@protonmail.com">Drop ma a note!</a><br>
