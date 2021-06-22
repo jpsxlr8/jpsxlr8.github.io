@@ -31,3 +31,11 @@ The Godfather trilogy<br>
 Lords of the rings trilogy<br>
 Batman Trilogy<br>
 The Shining<br>
+Green Book<br>
+Manchester by the sea<br>
+Three Billboards outside Ebbing Missouri<br>
+Seven Samurai<br>
+Rain Man<br>
+Raging Bull<br>
+Barry Lyndon<br>
+
