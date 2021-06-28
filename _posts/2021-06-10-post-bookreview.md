@@ -19,5 +19,7 @@ Very well written with easy to understandable concepts. Must read if you want to
 <b>Deep Work</b> by Cal Newport<br>
 Interesting read outlining the benefits of deep work i.e deliberate work done with full concentration without any distractions. <br>
 <b>Fooled by Randomness</b> by Nassim Nicholas Taleb<br>
- Not recommended.A one time read types, since the book is fulled of blabbery in pursuit to press the author's viewpoint. <br>
+ Not recommended.A one time read types, since the book is full of blabbery in pursuit to press the author's viewpoint. <br>
+ <b>Almanack of Naval Ravikant</b> by Eric Jorgensen<br>
+ Highly recommended.The book is full of Naval's advice and wisdom collected from his blogs,tweet,speech etc.<br>
  Got recommendations?<a href="mailto:jpsxlr8@protonmail.com">Drop ma a note!</a><br>
