@@ -8,7 +8,7 @@ tags:
 
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <style>
@@ -267,4 +267,4 @@ tags:
     </ul>
     <p><i>Case closed.Keep calm and love Dubstep.</i></p>
 </body>
-</html>
+
