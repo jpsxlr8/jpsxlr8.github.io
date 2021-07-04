@@ -264,7 +264,7 @@ tags:
         <ol>
             <li>The problem is access: money and resources give vastly better access to education and opportunity.</li>
             <li>The problem is ability: intelligence is largely inherited and smart parents will have smart offsprings.</li>
-    </ul>
+    
     <p><i>Case closed.Keep calm and love Dubstep.</i></p>
-</body>
+
 
