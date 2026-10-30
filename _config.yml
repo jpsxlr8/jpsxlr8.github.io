@@ -61,7 +61,7 @@ plugins:
 author:
   name  : "Jai Pratap Singh"
   avatar: "/assets/images/jps.png"
-  bio   : " ECE @ MNNIT Allahabad"
+  bio  : " ECE @ MNNIT Allahabad"
   links:
     - label: "Website"
       icon: ""
@@ -74,7 +74,7 @@ author:
       url: "https://github.com/jpsxlr8"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jai-pratap-singh/"
+      url: "https://www.linkedin.com/in/jpsxlr8/"
 
 footer:
   links:
