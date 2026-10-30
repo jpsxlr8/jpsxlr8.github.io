@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jai Pratap Singh"
-  avatar : "/assets/images/jps.png"
-  bio    : "Pre-final year undergrad at MNNIT Allahabad"
+  name  : "Jai Pratap Singh"
+  avatar: "/assets/images/jps.png"
+  bio   : " ECE @ MNNIT Allahabad"
   links:
     - label: "Website"
       icon: ""
@@ -86,7 +86,7 @@ footer:
       url: "https://github.com/jpsxlr8"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.in/jai-pratap-singh/"
+      url: "https://linkedin.in/jpsxlr8/"
 
 defaults:
   # _posts
